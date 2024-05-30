@@ -1,0 +1,22 @@
+<suite thread-count="1" verbose="1" name=" A Ministry of Health SmartCare System
+ automation suite">
+
+    <test name="User Login">
+        <classes>
+            <class name="testrunner.LoginTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="Select Facility">
+        <classes>
+            <class name="testrunner.SelectFacilityTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="search client">
+        <classes>
+            <class name="testrunner.UserTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
