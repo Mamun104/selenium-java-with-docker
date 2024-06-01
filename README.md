@@ -37,6 +37,17 @@ https://docs.google.com/document/d/1AuAot7TGxCRED2okhmZd3D5PgqckopctTzbeYeRh7hk/
 
 https://docs.google.com/document/d/1zCKFvLERpI_yTcrIkCaAMwycvi0v4ohGA_ZIcAkC05I/edit
 
+## Scenario of this project
+
+- The user can't log in with an invalid email
+- The user can't log in with an invalid password
+- The user can't log in with an invalid email and a valid password
+- The user can't log in with a valid email and an invalid password
+- The user can get different facilities
+- The user can add new patients with valid data
+- The user can't add new patients with invalid data
+- The user can search for patients
+
 ## Run the automation script:
 
 - Type the command:
@@ -55,8 +66,11 @@ https://docs.google.com/document/d/1zCKFvLERpI_yTcrIkCaAMwycvi0v4ohGA_ZIcAkC05I/
  
  # These are the snapshots of the allure reports:
  
- ![11](https://github.com/Mamun104/Assesment_2023/assets/78067017/dd1d9c0d-88ec-448f-a99c-1a50377ea9e8)
-![Screenshot_2](https://github.com/Mamun104/Assesment_2023/assets/78067017/2cc22050-2c09-47e5-8249-49189701ff71)
+![1](https://github.com/Mamun104/-smartcare_health_system_automation_testing/assets/78067017/d8086ad5-5203-4cda-9c94-0e2732a11e33)
+![2](https://github.com/Mamun104/-smartcare_health_system_automation_testing/assets/78067017/8071d4bb-3402-42ec-a3bb-a358ef3e658e)
+![3](https://github.com/Mamun104/-smartcare_health_system_automation_testing/assets/78067017/f92656df-ff56-40c2-985b-c022cf257b22)
+
+
 
 
 
