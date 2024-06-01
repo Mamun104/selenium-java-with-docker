@@ -1,4 +1,4 @@
-# Automation Testing For Smart Healthcare SYSTEM
+# Automation Testing For Smart Healthcare System
 
 ## Technology:
 
