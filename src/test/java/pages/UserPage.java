@@ -16,18 +16,15 @@ public class UserPage {
     WebElement nrcValue;
     @FindBy(className = "flex")
     List<WebElement> selectService;
-
     @FindBy(xpath= "//button[normalize-space()='Add Vital']")
     WebElement addVitalBtn;
-
     @FindBy(className = "custom-input")
     List <WebElement> formData;
-
     @FindBy(className= "main_btn")
     WebElement btnSave;
 
-
     public WebDriver driver;
+
     public UserPage (WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
@@ -58,9 +55,5 @@ public class UserPage {
         formData.get(16).sendKeys(note);
         btnSave.click();
 
-
-
     }
-
-
 }
