@@ -46,6 +46,5 @@ public class UserTestRunner extends Setup {
         Thread.sleep(5000);
         userPage.patientInformation("38","38","90","67","65","15","98","new");
         Thread.sleep(8000);
-
     }
 }

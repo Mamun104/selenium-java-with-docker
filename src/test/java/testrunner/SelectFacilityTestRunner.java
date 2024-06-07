@@ -40,5 +40,4 @@ public class SelectFacilityTestRunner extends Setup {
         Thread.sleep(2000);
 
     }
-
 }
